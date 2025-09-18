@@ -45,7 +45,7 @@ export default async function HomePage() {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center glow-effect">
                 <Dumbbell className="w-6 h-6 text-primary-foreground" />
               </div>
-              <span className="text-2xl font-bold text-gradient">FITTRACK</span>
+              <span className="text-2xl font-bold text-gradient">POWERHOUSE GYM</span>
             </div>
             <div className="flex items-center gap-4">
               <Button asChild variant="ghost" className="text-muted-foreground hover:text-foreground">
@@ -224,9 +224,9 @@ export default async function HomePage() {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <Dumbbell className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-gradient">FITTRACK</span>
+            <span className="text-xl font-bold text-gradient">POWERHOUSE GYM</span>
           </div>
-          <p className="text-muted-foreground">© 2025 FitTrack. Built for champions, by champions.</p>
+          <p className="text-muted-foreground">© 2025 POWERHOUSE GYM. Built for champions, by champions.</p>
         </div>
       </footer>
     </div>

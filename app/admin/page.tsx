@@ -95,7 +95,7 @@ export default async function AdminDashboardPage() {
             <div className="flex items-center gap-3">
               <Dumbbell className="w-8 h-8 text-primary" />
               <div>
-                <h1 className="text-2xl font-bold">FitTrack Pro Admin</h1>
+                <h1 className="text-2xl font-bold">POWERHOUSE GYM Pro Admin</h1>
                 <p className="text-sm text-muted-foreground">Gym Management Dashboard</p>
               </div>
             </div>

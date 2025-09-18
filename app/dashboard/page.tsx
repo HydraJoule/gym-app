@@ -77,7 +77,7 @@ export default async function DashboardPage() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <Dumbbell className="w-8 h-8 text-primary" />
-              <h1 className="text-2xl font-bold">FitTrack Pro</h1>
+              <h1 className="text-2xl font-bold">POWERHOUSE GYM Pro</h1>
             </div>
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-2">
